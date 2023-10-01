@@ -1,7 +1,8 @@
 ## Oie! Eu sou a Thamires ✌
 
 
-- 📖 Estudante de ADS
+- 💻 Cursando ADS
+- 📖 Estudante da Faculdade SPTech
 
 <br>
 

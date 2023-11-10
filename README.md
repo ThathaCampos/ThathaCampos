@@ -12,10 +12,10 @@
   <img height="180em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThathaCampos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img style="justify-content: center" alt="Thamires-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="justify-content: center" alt="Thamires-Js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img style="justify-content: center" alt="Thamires-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img style="justify-content: center" alt="Thamires-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="justify-content: center" alt="Thamires-Mysql" height="30" width="40"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img style="justify-content: center" alt="Thamires-Mysql" height="100" width="100"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 </div>
 
